@@ -9,7 +9,7 @@ function App() {
   return (
     <Router>
         <div className="App">
-            <h1>Welcome!</h1>
+            <h1>ContactMe Sign in page</h1>
             <div>
                 <Link to ="/LoginForm"><button>Sign In</button></Link>
                 <Link to ="/SignUpForm"><button>Sign Up</button></Link>
